@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Environment
+.env
+.venv
+venv/
+env/
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Data files
+*.mat
+*.npz
+*.csv
+*.h5
+*.pkl
+
+# Log files
+*.log
+
+# Checkpoints
+*.ckpt
+*.pt
+*.pth
+
+# Temporary files
+*.tmp
+*.temp

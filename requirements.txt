@@ -1,0 +1,18 @@
+# Core dependencies
+jax>=0.4.0
+jaxlib>=0.4.0
+jaxpi>=0.1.0
+
+# Numerical computing
+numpy>=1.22.0
+scipy>=1.8.0
+
+# Visualization
+matplotlib>=3.5.0
+
+# Data handling
+scikit-learn>=1.0.0
+
+# Additional utilities
+tqdm>=4.62.0
+optax>=0.1.2
